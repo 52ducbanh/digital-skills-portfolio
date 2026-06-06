@@ -1,0 +1,326 @@
+--- Bài tập 1.docx ---
+Thực hiện:
+1.     Mở File Explorer: Nhấn tổ hợp phím Windows + E hoặc nhấp vào biểu tượng thư mục màu vàng trên thanh tác vụ.
+
+2.     Truy cập ổ đĩa/thư mục: Ở cột bên trái, nhấp vào This PC, sau đó nhấp đúp vào một ổ đĩa không phải ổ hệ thống (ví dụ: ổ D: hoặc E:). Nếu chỉ có ổ C:, hãy vào thư mục Documents.
+
+3.     Tạo thư mục mới: Nhấp chuột phải vào một khoảng trống -> chọn New -> Folder. Đặt tên thư mục là ThucHanh_hotensinhvien (ví dụ: ThucHanh_NguyenVanA). Nhấn Enter.
+
+
+4.     Vào thư mục vừa tạo: Nhấp đúp vào thư mục ThucHanh_NguyenVanA.
+
+5.     Tạo tệp tin văn bản: Nhấp chuột phải vào khoảng trống -> New -> Text Document. Đặt tên là GhiChu.txt. Nhấn Enter.
+
+
+
+
+
+
+6.     Đổi tên tệp tin: Nhấp chuột phải vào tệp GhiChu.txt -> chọn Rename. Đổi tên thành GhiChuQuanTrong.txt. Nhấn Enter.
+
+
+7.     Tạo thư mục con: Trong thư mục ThucHanh_NguyenVanA, nhấp chuột phải -> New -> Folder. Đặt tên là TaiLieu.
+
+
+8.     Sao chép tệp tin (Copy & Paste):
+Nhấp chuột phải vào tệp GhiChuQuanTrong.txt -> chọn Copy (hoặc chọn tệp rồi nhấn Ctrl + C).
+Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống bên trong -> chọn Paste (hoặc nhấn Ctrl + V). Bây giờ bạn có một bản sao của tệp trong thư mục TaiLieu.
+
+
+
+9.     Di chuyển tệp tin (Cut & Paste):
+Quay lại thư mục ThucHanh_NguyenVanA. Tạo một tệp mới tên là DiChuyen.txt.
+Nhấp chuột phải vào tệp DiChuyen.txt -> chọn Cut (hoặc chọn tệp rồi nhấn Ctrl + X).
+Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống -> chọn Paste (hoặc nhấn Ctrl + V). Tệp gốc đã biến mất khỏi vị trí cũ và chỉ còn ở vị trí mới.
+
+
+
+
+10. Xóa tệp tin: Trong thư mục TaiLieu, nhấp chuột phải vào tệp GhiChuQuanTrong.txt -> chọn Delete. Tệp sẽ được chuyển vào Thùng rác (Recycle Bin).
+ 
+
+
+11. Xóa vĩnh viễn: Chọn tệp DiChuyen.txt, nhấn giữ phím Shift và nhấn phím Delete. Một cảnh báo sẽ hiện ra. Nếu đồng ý, tệp sẽ bị xóa vĩnh viễn mà không qua Thùng rác.
+
+
+12. Khôi phục từ Thùng rác (Tùy chọn): Tìm biểu tượng Recycle Bin trên màn hình nền, nhấp đúp để mở. Tìm tệp GhiChuQuanTrong.txt đã xóa, nhấp chuột phải vào nó và chọn Restore. Tệp sẽ quay trở lại vị trí ban đầu.
+
+
+
+
+--- Bài tập 2.docx ---
+BÁO CÁO: ỨNG DỤNG CỦA MACHINE LEARNING TRONG CHĂM SÓC SỨC KHỎE (HEALTHCARE)
+
+I. Mục tiêu và lựa chọn chủ đề
+Chủ đề được chọn là “Ứng dụng của Machine Learning (ML) trong chăm sóc sức khỏe” (Machine Learning Applications in Healthcare). Đây là chủ đề liên quan trực tiếp đến ngành Công nghệ Thông tin (hoặc Kỹ thuật Phần mềm/Y học số nếu bạn học liên ngành), đồng thời có tính thách thức cao vì lĩnh vực này đang phát triển nhanh chóng, kết hợp giữa AI, dữ liệu lớn, y tế lâm sàng và đạo đức. Phạm vi tìm kiếm tập trung vào các ứng dụng thực tiễn (chẩn đoán hình ảnh, dự đoán bệnh, hỗ trợ quyết định lâm sàng), thách thức (bias, bảo mật, triển khai) và xu hướng cập nhật từ 2019–2026, nhằm đảm bảo tính thời sự và tính học thuật.
+Phạm vi tìm kiếm bao gồm: Google Scholar, PubMed/PMC, các tạp chí uy tín (Nature Medicine, The Lancet Digital Health, JMIR, NEJM), sách chuyên khảo, và nguồn mở (arXiv, ResearchGate, trang tạp chí mở).
+II. Quá trình tìm kiếm và thu thập tài liệu
+Em đã tìm kiếm từ 4 loại nguồn theo yêu cầu và khai thác thêm nguồn khác (PubMed, arXiv, báo cáo hội nghị):
+Cơ sở dữ liệu học thuật: Google Scholar, PubMed/PMC.
+Tạp chí khoa học chuyên ngành: Nature Medicine, The Lancet Digital Health, JMIR, Mayo Clinic Proceedings: Digital Health, Algorithms (MDPI), World Journal of Clinical Cases.
+Sách chuyên khảo: Machine Learning in Healthcare: Fundamentals and Recent Applications (2021); Machine Learning in Medicine – A Complete Overview (2020); Artificial Intelligence and Machine Learning in Health Care and Medical Sciences (2024, open access).
+Nguồn mở trên internet: PMC (full-text miễn phí), ResearchGate, ScienceDirect, Springer, arXiv (preprint nhưng nhiều bài chất lượng cao).
+Thu thập được 12 tài liệu (vượt yêu cầu), trong đó ít nhất 7 bài báo khoa học chất lượng cao (review/systematic review/meta-analysis từ tạp chí Q1/Q2, có DOI, peer-reviewed). Các tài liệu được chọn dựa trên tính liên quan, số trích dẫn cao và tính cập nhật (chủ yếu 2020–2026).
+III. Đánh giá độ tin cậy của từng nguồn
+Mỗi nguồn được đánh giá dựa trên 5 tiêu chí: (1) Tác giả (chuyên môn, affiliation uy tín); (2) Cơ quan xuất bản (tạp chí/sách có factor impact cao, peer-review); (3) Phương pháp nghiên cứu (systematic review, meta-analysis, empirical study hay chỉ narrative); (4) Trích dẫn (số cite trên Google Scholar); (5) Tính cập nhật (năm xuất bản, độ mới của dữ liệu).
+Xếp hạng độ tin cậy (thang 1–5, 5 cao nhất): Dựa trên tổng hợp các tiêu chí, ưu tiên bài review/systematic từ tạp chí top-tier.
+IV. Bảng tổng hợp các nguồn thông tin
+
+Tổng kết đánh giá: Hầu hết nguồn có độ tin cậy cao (≥4) nhờ tác giả/affiliation uy tín, peer-review nghiêm ngặt, phương pháp robust (review/meta-analysis) và trích dẫn cao. Nguồn sách cung cấp nền tảng sâu, bài báo gần đây (2024–2025) đảm bảo tính cập nhật. Nhược điểm chung: Một số preprint/narrative review có thể thiên chủ quan hơn systematic review; bias dữ liệu và vấn đề triển khai thực tế vẫn là thách thức lớn.
+V. Kết luận và khuyến nghị
+Qua tìm kiếm, ML đang cách mạng hóa healthcare qua chẩn đoán hình ảnh, dự đoán bệnh, cá nhân hóa điều trị và MLOps, nhưng cần chú trọng đạo đức, bias, bảo mật dữ liệu và triển khai thực tế. Kỹ năng tìm kiếm từ nguồn uy tín giúp tránh thông tin sai lệch.
+Danh mục tài liệu tham khảo (Harvard style) (Đã liệt kê đầy đủ trong bảng, sắp xếp theo thứ tự bảng chữ cái nếu nộp chính thức. Tất cả đều có DOI/full-text truy cập được qua Google Scholar/PubMed).
+
+--- Bài tập tuần 3.docx ---
+PHÁT TRIỂN KỸ NĂNG VIẾT PROMPT HIỆU QUẢ ĐỂ TẬN DỤNG TỐI ĐA MÔ HÌNH NGÔN NGỮ LỚN TRONG HỌC TẬP
+
+I. Lựa chọn và phân tích 3 tác vụ học tập
+Em chọn 3 tác vụ học tập phổ biến sau:
+Tóm tắt một bài đọc/tài liệu học thuật Mục tiêu là giúp người học nắm nhanh ý chính, cấu trúc logic và giá trị cốt lõi của tài liệu mà không mất nhiều thời gian. Thách thức lớn nhất là phải cân bằng giữa độ ngắn gọn và độ đầy đủ thông tin, tránh bỏ sót ý quan trọng hoặc thêm nội dung không có trong bài.
+Giải thích một khái niệm phức tạp Mục tiêu là biến những kiến thức trừu tượng, khó hiểu thành nội dung dễ tiếp cận và dễ nhớ. Thách thức là phải dùng ngôn ngữ đơn giản nhưng vẫn chính xác, đồng thời đưa ra ví dụ phù hợp để người học hiểu sâu mà không bị rối.
+Tạo bộ câu hỏi ôn tập cho một chủ đề Mục tiêu là tạo ra hệ thống câu hỏi đa dạng giúp ôn tập hiệu quả và kiểm tra mức độ nắm bắt kiến thức. Thách thức là câu hỏi phải bao quát toàn bộ nội dung, có độ khó tăng dần và khuyến khích tư duy phê phán thay vì chỉ học thuộc lòng.
+II. Xây dựng các phiên bản prompt
+Em xây dựng 3 phiên bản prompt cho mỗi tác vụ với cùng một nội dung input để dễ so sánh.
+1. Tác vụ: Tóm tắt một bài đọc/tài liệu học thuật
+Input cố định: “Biến đổi khí hậu toàn cầu đang gây ra nhiều tác động tiêu cực đến môi trường và xã hội. Nhiệt độ Trái Đất tăng lên do khí nhà kính từ hoạt động con người. Điều này dẫn đến tan băng, mực nước biển dâng cao, và các thảm họa thiên nhiên như bão lũ, hạn hán. Ngoài ra, nó ảnh hưởng đến đa dạng sinh học, gây nguy cơ tuyệt chủng cho nhiều loài động thực vật. Để đối phó, cần các biện pháp giảm phát thải carbon và chuyển đổi năng lượng tái tạo.”
+Prompt cơ bản: “Tóm tắt bài đọc sau: [dán input]”
+
+Prompt cải tiến: “Hãy tóm tắt bài đọc sau một cách ngắn gọn, rõ ràng, bao gồm các ý chính nhất và sử dụng ngôn ngữ dễ hiểu cho sinh viên năm nhất: [dán input]”
+
+Prompt nâng cao: “Bạn là một chuyên gia tóm tắt tài liệu học thuật của Đại học Quốc gia. Hãy thực hiện theo các bước sau:
+Xác định chủ đề chính và mục tiêu của bài đọc.
+Liệt kê 4-5 ý chính quan trọng nhất theo thứ tự logic.
+Viết đoạn tóm tắt ngắn (100-150 từ) bằng ngôn ngữ đơn giản, khách quan, không thêm ý kiến cá nhân.
+Kết thúc bằng một câu gợi ý ý nghĩa thực tiễn. Input: [dán input] Hãy suy nghĩ từng bước một trước khi trả lời.”
+	
+
+2. Tác vụ: Giải thích một khái niệm phức tạp
+Khái niệm: Liên kết lượng tử (Quantum Entanglement)
+Prompt cơ bản: “Giải thích khái niệm Liên kết lượng tử.”
+
+
+Prompt cải tiến: “Giải thích khái niệm Liên kết lượng tử một cách dễ hiểu cho sinh viên đại học, sử dụng ví dụ đơn giản và tránh dùng quá nhiều thuật ngữ chuyên môn.”
+
+
+
+Prompt nâng cao: “Bạn là giảng viên vật lý lượng tử tại MIT, chuyên giải thích khái niệm khó cho sinh viên năm nhất. Hãy giải thích ‘Liên kết lượng tử’ theo quy trình sau:
+Định nghĩa ngắn gọn bằng ngôn ngữ đời thường.
+Giải thích cơ chế vật lý (không dùng công thức).
+Đưa 2 ví dụ thực tế dễ hình dung.
+Nêu một ứng dụng quan trọng trong công nghệ hiện đại. Hãy suy nghĩ từng bước và trả lời rõ ràng, có cấu trúc.”
+
+
+
+
+3. Tác vụ: Tạo bộ câu hỏi ôn tập cho một chủ đề
+Chủ đề: Quá trình quang hợp trong sinh học lớp 11
+Prompt cơ bản: “Tạo bộ câu hỏi ôn tập về quá trình quang hợp.”
+
+Prompt cải tiến: “Tạo 10 câu hỏi ôn tập về quá trình quang hợp, bao gồm cả câu hỏi trắc nghiệm và tự luận, phù hợp với học sinh lớp 11.”
+
+
+Prompt nâng cao: “Bạn là giáo viên Sinh học xuất sắc, chuyên xây dựng đề thi theo thang Bloom. Hãy tạo bộ 12 câu hỏi ôn tập về ‘Quá trình quang hợp’ theo các bước:
+Phân loại theo 4 mức độ: Kiến thức – Hiểu – Vận dụng – Phân tích.
+Đảm bảo bao quát toàn bộ nội dung (phương trình, giai đoạn sáng/tối, yếu tố ảnh hưởng, ý nghĩa sinh thái).
+Mỗi câu hỏi kèm đáp án ngắn gọn.
+Kết thúc bằng 1 câu hỏi mở khuyến khích tư duy phê phán. Hãy suy nghĩ logic trước khi liệt kê câu hỏi.”
+
+
+
+III. Thử nghiệm và so sánh kết quả
+Em đã thử nghiệm tất cả 9 prompt với ChatGPT-4o. Dưới đây là bảng so sánh tóm tắt:
+Bảng so sánh kết quả
+IV. Phân tích hiệu quả của các prompt
+Prompt cơ bản thường cho kết quả chung chung và dễ thiếu thông tin vì không có hướng dẫn cụ thể.
+Prompt cải tiến tốt hơn nhờ thêm yêu cầu về độ dài, ngôn ngữ và đối tượng, giúp AI tập trung và trả lời phù hợp hơn.
+Prompt nâng cao cho kết quả vượt trội nhất vì em đã áp dụng nhiều kỹ thuật prompt engineering:
+Role prompting: Giao vai chuyên gia hoặc giảng viên giúp AI trả lời chuyên sâu và phù hợp hơn.
+Chain-of-Thought: Yêu cầu “suy nghĩ từng bước” làm cho câu trả lời logic và ít lỗi hơn.
+Cấu trúc rõ ràng: Dùng số thứ tự giúp output dễ đọc và có hệ thống.
+Kết quả thực tế cho thấy prompt càng chi tiết và có cấu trúc thì chất lượng đầu ra càng cao, dù prompt dài hơn.
+V. Tổng hợp nguyên tắc và mẹo viết prompt hiệu quả
+Từ quá trình thử nghiệm, em rút ra được các nguyên tắc quan trọng sau:
+Hãy viết prompt càng cụ thể càng tốt (độ dài, ngôn ngữ, đối tượng).
+Sử dụng cấu trúc rõ ràng bằng số thứ tự (1., 2., 3.).
+Áp dụng role prompting (giao vai cho AI).
+Sử dụng Chain-of-Thought bằng cách yêu cầu AI suy nghĩ từng bước.
+Chỉ rõ đối tượng người dùng (sinh viên năm nhất, học sinh lớp 11…).
+Khi tạo câu hỏi, nên dùng thang Bloom để đa dạng mức độ tư duy.
+Kết hợp nhiều kỹ thuật trong một prompt sẽ mang lại hiệu quả cao hơn.
+Sau khi có kết quả, có thể dùng prompt follow-up để cải thiện thêm.
+Mẹo thực tế: Prompt nâng cao thường dài hơn nhưng giúp tiết kiệm rất nhiều thời gian học tập vì chất lượng output cao và dễ áp dụng ngay.
+
+
+--- Bài tập tuần 4.docx ---
+BÁO CÁO CÁ NHÂN
+Bài tập: Công cụ hợp tác trực tuyến và quản lý dự án nhóm
+Họ và tên: Trần Vũ Đức
+Lớp: K70I-IT4 
+MSSV: 25020133
+I. Giới thiệu
+Trong tuần từ ngày 12/04 đến 18/04/2026, nhóm em thực hiện dự án nhỏ “Xây dựng kế hoạch tổ chức sự kiện Sinh viên chào mừng Ngày Nhà giáo Việt Nam 20/11”. Em phụ trách phần Ngân sách và Phân tích rủi ro.
+Em đã sử dụng 4 công cụ thuộc các nhóm khác nhau:
+Quản lý dự án: Trello
+Soạn thảo tài liệu: Google Docs
+Lưu trữ tệp: Google Drive
+Giao tiếp nhóm: Messenger (nhóm chat chung)
+Em đã thiết lập đầy đủ profile với tên thật “Đức Trần Vũ”, kết nối Trello với Google Drive bằng cách gắn link tài liệu vào card, và thường xuyên chia sẻ link Trello + Drive trong nhóm Messenger.
+
+II. Các tác vụ cá nhân đã thực hiện
+1. Quản lý tác vụ trên Trello Em tự quản lý 5 nhiệm vụ cá nhân với mô tả chi tiết, deadline rõ ràng, label (High Priority, Ngân sách, Rủi ro) và checklist. Em cập nhật tiến độ ít nhất 4 lần/tuần bằng cách di chuyển card và comment tiến độ.
+
+
+2. Đóng góp trên Google Docs Em viết và chỉnh sửa trực tiếp phần “Dự toán ngân sách” và “Phân tích rủi ro”. Em sử dụng chế độ Suggesting và để lại comment để đóng góp rõ ràng.
+
+3. Tổ chức tệp tin trên Google Drive Em tạo thư mục “Đức – Tài liệu phụ trách” với cấu trúc nhiều cấp thư mục. Tất cả file đều được đặt tên theo quy chuẩn (Tên – Ngày – Mô tả – Phiên bản). Em thiết lập quyền View cho toàn nhóm.
+
+
+4. Tương tác trên Messenger Em tham gia hơn 12 lượt tương tác/tuần: chủ động gửi cập nhật tiến độ, mention thành viên, hỏi thông tin và hỗ trợ bạn khác về phần ngân sách trong nhóm chat.
+
+III. Phân tích hiệu quả của công cụ
+Ưu điểm:
+Trello giúp em theo dõi tiến độ trực quan và quản lý deadline dễ dàng.
+Google Docs cho phép chỉnh sửa thời gian thực và xem lịch sử chỉnh sửa rõ ràng.
+Google Drive tổ chức tệp tin logic, dễ tìm kiếm.
+Messenger hỗ trợ thảo luận nhanh chóng, tiện lợi vì mọi người đều dùng hàng ngày.
+Nhược điểm: Trello dễ bị quá tải card nếu không dùng label; Google Docs đôi khi khó theo dõi khi nhiều người chỉnh cùng lúc; Messenger dễ bị lẫn lộn tin nhắn cũ nếu không ghi chú rõ ràng.
+Việc kết hợp 4 công cụ giúp em hoàn thành công việc đúng hạn và tăng sự chủ động trong nhóm.
+IV. Thách thức gặp phải và cách giải quyết
+Thách thức 1: Một số thành viên ít cập nhật tiến độ, làm ảnh hưởng đến việc lập ngân sách của em. Giải pháp: Em chủ động mention trực tiếp trên Messenger và comment trong card Trello để nhắc nhở, đồng thời đề xuất mọi người cập nhật ít nhất 1 lần/ngày.
+Thách thức 2: Xung đột khi nhiều người cùng chỉnh sửa Google Docs. Giải pháp: Em đề xuất cả nhóm sử dụng chế độ Suggesting thay vì chỉnh trực tiếp và luôn comment rõ lý do thay đổi.
+Thách thức 3: Ban đầu thư mục Google Drive lộn xộn, tên file không thống nhất. Giải pháp: Em đề xuất quy tắc đặt tên file chung và tự tổ chức thư mục cá nhân làm mẫu để cả nhóm tham khảo.
+V. Kết luận
+Qua một tuần thực hiện dự án, em thấy rõ lợi ích của việc sử dụng công cụ hợp tác trực tuyến. Bài học rút ra quan trọng nhất là phải chủ động tương tác, kỷ luật cập nhật tiến độ và thống nhất quy tắc từ đầu.
+Em sẽ tiếp tục áp dụng bộ công cụ Trello – Google Docs – Google Drive – Messenger cho các dự án nhóm sau này.
+Tổng số ảnh minh chứng: 8 ảnh (tất cả ảnh đều hiển thị rõ tên tài khoản “Đức” và phần đóng góp cá nhân của em).
+
+--- Bài tập tuần 5.docx ---
+BÁO CÁO DỰ ÁN: ỨNG DỤNG AI TẠO SINH TRONG SÁNG TẠO NỘI DUNG SỐ
+Tên dự án: Bài viết kỹ thuật & Infographic giới thiệu kiến trúc ứng dụng đấu giá "BidMaster" Công cụ AI sử dụng: Google Gemini (Xử lý văn bản & Cấu trúc), DALL-E 3 (Sáng tạo hình ảnh), Canva Magic Design (Thiết kế đồ họa).
+I. Giới thiệu dự án
+Dự án này tập trung vào việc sáng tạo bộ nội dung số (bao gồm một bài viết chuyên sâu trên blog kỹ thuật và một Infographic) để giới thiệu về "BidMaster" – một ứng dụng đấu giá trực tuyến. Mục tiêu là biến các kiến thức khô khan về lập trình (Java, JavaFX, MySQL, mô hình MVC) thành một bản trình bày trực quan, dễ tiếp cận cho cả người dùng cuối lẫn các nhà tuyển dụng IT.
+Tỷ lệ đóng góp thực tế: Đầu ra của AI (40%) - Đóng góp sáng tạo cá nhân (60% - thông qua việc tự viết code, điều hướng logic kiến trúc và biên tập văn phong).
+II. Quá trình sử dụng công cụ AI và Tích hợp sáng tạo (Chi tiết)
+Để hoàn thiện dự án, em đã sử dụng kết hợp 3 công cụ AI tạo sinh với các luồng công việc cụ thể như sau:
+1. Google Gemini: Trợ lý cấu trúc nội dung và tinh chỉnh văn bản
+Mục đích: Xây dựng dàn ý bài viết kỹ thuật, giải thích các khái niệm phức tạp (như JDBC, mô hình MVC) thành ngôn ngữ thân thiện với người đọc.
+Prompt 1 (Lập dàn ý): "Đóng vai một Tech Lead. Hãy lập dàn ý chi tiết cho một bài blog giới thiệu ứng dụng đấu giá tên là 'BidMaster' viết bằng Java và MySQL. Bài viết cần làm nổi bật ưu điểm của giao diện JavaFX và luồng xử lý database. Tone giọng: Chuyên nghiệp nhưng dễ hiểu."
+Prompt 2 (Viết nháp phần khó): "Hãy viết một đoạn khoảng 150 từ giải thích lý do tại sao mô hình MVC (Model-View-Controller) lại quan trọng trong việc xây dựng ứng dụng BidMaster, lấy ví dụ trực tiếp từ tính năng 'Đặt giá' (Bidding)."
+Cách chỉnh sửa & Tích hợp (Đóng góp cá nhân > 50%):
+Tinh chỉnh kỹ thuật: Gemini cung cấp cấu trúc rất tốt, nhưng các ví dụ code thường chung chung. Em đã chủ động loại bỏ mã giả (pseudo-code) của AI và chèn trực tiếp các đoạn code xử lý JDBC kết nối MySQL thực tế từ project BidMaster của em vào bài viết để minh họa.
+Điều chỉnh văn phong: Cắt bỏ các từ ngữ quá bay bổng của AI, đưa văn bản về đúng chuẩn ngôn ngữ của sinh viên IT.
+	  
+2. DALL-E 3: Sáng tạo tài nguyên hình ảnh độc bản
+Mục đích: Tạo ra ảnh bìa (Hero Image) thu hút cho bài blog và các icon minh họa đặc thù cho luồng cơ sở dữ liệu.
+Prompt 1 (Tạo ảnh bìa): "A minimalist, futuristic 3d isometric illustration of an online auction platform. A glowing digital gavel striking a database server block. Colors: deep blue, glowing orange and sleek silver. High resolution, clean background, tech-startup vibe."
+Prompt 2 (Tạo Icon đồ họa): "A simple, flat design vector icon of a coffee cup integrated with a computer screen, representing Java programming. Solid white background, UI/UX style."
+Cách chỉnh sửa & Tích hợp:
+DALL-E 3 tạo ra hình ảnh đúng concept 3D isometric mong muốn. Tuy nhiên, AI thường mắc lỗi khi chèn text vào ảnh. Em đã sử dụng Photoshop để xóa bỏ các dòng text vô nghĩa do AI tự sinh ra, cân bằng lại dải màu (color grading) cho khớp với tông màu xanh dương chủ đạo của UI ứng dụng BidMaster thực tế.
+  
+3. Canva AI (Magic Design): Bố cục hóa luồng thông tin
+Mục đích: Thiết kế Infographic tóm tắt kiến trúc hệ thống của BidMaster dựa trên dữ liệu văn bản từ Gemini và hình ảnh từ DALL-E 3.
+Cách sử dụng: Sử dụng tính năng Magic Design, cung cấp đoạn mô tả: "Infographic quy trình ứng dụng đấu giá BidMaster: 1. Đăng nhập người dùng -> 2. Load giao diện JavaFX -> 3. Lấy dữ liệu sản phẩm từ MySQL -> 4. Thực hiện đấu giá."
+Cách chỉnh sửa & Tích hợp:
+AI của Canva đề xuất một layout cơ bản nhưng luồng thị giác (visual flow) hơi lộn xộn. Em đã phải can thiệp thủ công để cấu trúc lại theo chiều dọc (từ trên xuống dưới).
+Thay thế toàn bộ icon mặc định của Canva bằng bộ icon tạo từ DALL-E 3 để tạo sự đồng nhất về nhận diện thương hiệu cho ứng dụng.
+
+III. So sánh và Phân tích chi tiết hiệu quả các công cụ AI
+Việc sử dụng đồng thời 3 công cụ AI đã bộc lộ rõ những điểm mạnh và hạn chế của từng mô hình thuật toán. Dưới đây là phân tích chi tiết:
+Google Gemini (Xử lý Ngôn ngữ tự nhiên):
+Điểm AI làm tốt: Khả năng xâu chuỗi logic và tóm tắt thông tin rất mạnh. Gemini giúp em vượt qua "hội chứng trang giấy trắng", tiết kiệm đến 60% thời gian lên khung ý tưởng ban đầu.
+Điểm hạn chế: Thiếu chiều sâu thực tiễn. Khi yêu cầu phân tích sâu vào luồng xử lý database cụ thể của một ứng dụng chưa từng public như BidMaster, AI chỉ đưa ra các lý thuyết chung chung, bắt buộc người dùng phải có chuyên môn thật (domain knowledge) để bù đắp vào.
+DALL-E 3 (Mô hình Text-to-Image):
+Điểm AI làm tốt: Khả năng hiểu ngữ cảnh không gian (3D isometric) và phối màu xuất sắc. Cung cấp tài nguyên hình ảnh độc quyền mà không vi phạm bản quyền hay phải mua trên các kho ảnh stock.
+Điểm hạn chế: Khó kiểm soát độ chính xác tuyệt đối (pixel-perfect) cho các yếu tố mang tính biểu tượng kỹ thuật. Ví dụ, logo Java hay MySQL do DALL-E vẽ thường bị méo mó hoặc sai tỷ lệ, cần phải can thiệp chỉnh sửa hậu kỳ rất nhiều.
+Canva AI (Trợ lý thiết kế đồ họa):
+Điểm AI làm tốt: Tự động hóa quá trình chọn bảng màu (color palette) và ghép font chữ (font pairing), giúp người làm kỹ thuật không chuyên về thiết kế đồ họa vẫn tạo ra sản phẩm bắt mắt.
+Điểm hạn chế: Tính sáng tạo bị giới hạn trong các khuôn mẫu (templates) có sẵn. Nếu phụ thuộc hoàn toàn, sản phẩm cuối cùng trông rất "công nghiệp" và thiếu đi tính kể chuyện (storytelling) riêng của dự án.
+Nhận định giá trị: Các công cụ AI không triệt tiêu lẫn nhau mà hoạt động như một dây chuyền lắp ráp. Text AI lo phần "cốt", Image AI lo phần "da thịt", và Design AI lo phần "trang phục". Tuy nhiên, luồng tư duy kiến trúc phần mềm và quyết định kỹ thuật cốt lõi hoàn toàn nằm trong tay người sáng tạo.
+
+IV. Phân tích vai trò của AI và Các Vấn đề Đạo đức cần cân nhắc
+Việc tích hợp AI tạo sinh vào quy trình sáng tạo và trình bày dự án kỹ thuật mang lại những lợi ích đột phá, song cũng đặt ra những vấn đề mang tính hệ trọng cần được nhìn nhận một cách có phản biện.
+1. Vai trò của AI và sự chuyển dịch trong quy trình sáng tạo (Thay đổi hệ hình): Trước đây, quy trình sáng tạo nội dung mang tính tuyến tính (Tự nghiên cứu -> Tự viết -> Tự tìm ảnh -> Lắp ráp). Hiện tại, AI đóng vai trò như những "Co-pilot" (Trợ lý lái phụ). Sự thay đổi lớn nhất là quá trình này chuyển sang trạng thái "Sáng tạo lặp" (Iterative Creation). Em có thể vừa yêu cầu AI viết nháp, vừa đối chiếu với code thực tế của mình, thấy điểm bất hợp lý thì lập tức "prompt" lại để AI sửa lỗi ngữ pháp, trong khi bản thân tập trung toàn lực vào logic hệ thống. AI giải phóng người kỹ sư khỏi các công việc lặp đi lặp lại để tập trung vào tư duy kiến trúc cấp cao.
+2. Các vấn đề đạo đức nghề nghiệp và những rủi ro đi kèm:
+Quyền sở hữu trí tuệ và "Vùng xám" bản quyền: Hình ảnh do DALL-E tạo ra được huấn luyện dựa trên tác phẩm của hàng triệu nghệ sĩ trên thế giới. Dù sản phẩm cuối là duy nhất, tính chính danh của nó vẫn gây tranh cãi. Giải pháp đạo đức ở đây là sự minh bạch. Em đã ghi chú rõ ràng trong các tài liệu dự án: "Các minh họa trực quan được tạo ra với sự hỗ trợ của AI".
+Vấn đề bảo mật dữ liệu (Data Privacy): Trong quá trình làm việc với các ứng dụng kỹ thuật như BidMaster, việc chia sẻ bừa bãi mã nguồn chứa logic kinh doanh hoặc chuỗi kết nối cơ sở dữ liệu (Database Connection Strings) lên các mô hình như Gemini là một hành vi vi phạm đạo đức bảo mật nghiêm trọng. AI có thể sử dụng dữ liệu này để huấn luyện, dẫn đến rủi ro rò rỉ thông tin. Em đã phải thiết lập quy tắc ngặt nghèo: Chỉ chia sẻ ý tưởng logic dạng văn bản, tuyệt đối không "paste" các thông tin nhạy cảm vào khung chat.
+Hội chứng "Ảo giác AI" (Hallucination) trong thông tin chuyên môn: AI có xu hướng bịa đặt các thư viện mã code không tồn tại hoặc các số liệu sai lệch với sự tự tin rất cao. Nếu một sinh viên ỷ lại trên 80% vào AI, họ vô tình trở thành người phát tán kiến thức sai lệch. Do đó, vai trò của người sáng tạo giờ đây không chỉ là "người tạo ra" mà phải là một "người kiểm chứng độc lập" (Independent Fact-checker).
+V. Kết luận
+Dự án đã chứng minh một cách thực tiễn rằng: AI tạo sinh là đòn bẩy tuyệt vời để gia tăng hiệu suất (từ việc lên ý tưởng ngôn ngữ đến hình ảnh hóa kiến trúc hệ thống). Tuy nhiên, một sản phẩm có hàm lượng chất xám thực sự chỉ thành hình khi có sự dẫn dắt bởi kiến thức chuyên môn vững chắc (như tư duy lập trình) và một lăng kính đạo đức rõ ràng từ phía con người. AI có thể viết một câu hay, vẽ một bức ảnh đẹp, nhưng không thể hiểu thấu đáo và chịu trách nhiệm cho vòng đời của một dự án công nghệ.
+
+
+
+
+
+Bài viết kỹ thuật & Infographic giới thiệu kiến trúc ứng dụng đấu giá "BidMaster"
+
+PHỤ LỤC 1: NỘI DUNG BÀI VIẾT BLOG (Sản phẩm 1)
+Tiêu đề: Giải mã BidMaster: Khi JavaFX và MySQL kết hợp tạo nên nền tảng đấu giá mượt mà
+Trong thời đại số hóa, việc xây dựng một hệ thống đấu giá trực tuyến đòi hỏi tính thời gian thực (real-time) và độ ổn định dữ liệu cực cao. Hôm nay, hãy cùng mổ xẻ "BidMaster" - một ứng dụng đấu giá được xây dựng dựa trên nền tảng Java, giao diện JavaFX và cơ sở dữ liệu MySQL.
+1. Sức mạnh của Mô hình MVC trong BidMaster Khi bắt tay vào code BidMaster, thách thức lớn nhất là làm sao để giao diện người dùng không bị "đơ" khi hàng chục người cùng ấn nút "Đặt giá" (Bid). Giải pháp chính là mô hình MVC (Model - View - Controller). Nhờ tách biệt hoàn toàn phần View (giao diện JavaFX hiển thị đồng hồ đếm ngược và giá hiện tại) khỏi phần Model (logic kiểm tra xem giá mới có hợp lệ không) thông qua Controller, hệ thống trở nên cực kỳ dễ bảo trì. Nếu muốn đổi màu nút bấm, ta chỉ việc sửa file .fxml ở View mà không sợ ảnh hưởng đến logic đấu giá ở Controller.
+2. Quản lý dữ liệu mạnh mẽ với MySQL và JDBC Mỗi lượt đặt giá là một giao dịch (transaction) quan trọng. BidMaster sử dụng JDBC để kết nối trực tiếp với MySQL. Thay vì các câu lệnh query chung chung, hệ thống dùng PreparedStatement để vừa tăng tốc độ truy vấn dữ liệu sản phẩm, vừa chống lại các cuộc tấn công SQL Injection. Mọi thông tin từ tên người dùng, lịch sử đặt giá đến trạng thái phiên đấu giá đều được lưu trữ nhất quán và an toàn.
+3. Trải nghiệm người dùng mượt mà với JavaFX Không còn những giao diện Java Swing cũ kỹ, BidMaster khoác lên mình lớp áo hiện đại nhờ JavaFX. Với việc hỗ trợ CSS, giao diện được tùy biến với tông màu xanh dương công nghệ, các hiệu ứng chuyển động mượt mà giúp người dùng có cảm giác như đang tham gia một sàn đấu giá chuyên nghiệp thực thụ.
+Kết luận BidMaster không chỉ là một dự án học thuật, nó là minh chứng cho việc kết hợp các công nghệ cốt lõi (Java, MySQL) với kiến trúc phần mềm chuẩn mực (MVC) có thể tạo ra những ứng dụng mạnh mẽ và có tính ứng dụng cao.
+
+PHỤ LỤC 2: NỘI DUNG CHO INFOGRAPHIC (Sản phẩm 2)
+
+Bước 1: Xác thực (Authentication)
+Người dùng đăng nhập vào hệ thống.
+Kiểm tra thông tin đối chiếu với Database MySQL.
+Bước 2: Giao diện (JavaFX View)
+Hệ thống load giao diện hiển thị bằng file FXML.
+Tải danh sách các phiên đấu giá đang diễn ra (Active Auctions).
+Bước 3: Tương tác (Controller Logic)
+Người dùng nhập mức giá muốn đấu (Bidding).
+Controller nhận tín hiệu, kiểm tra tính hợp lệ của mức giá (phải lớn hơn giá hiện tại).
+Bước 4: Cập nhật (Database MySQL)
+Lưu lịch sử đặt giá mới qua JDBC.
+Cập nhật mức giá cao nhất hiển thị theo thời gian thực trên màn hình của tất cả người dùng.
+
+--- Bài tập tuần 6.docx ---
+BÁO CÁO SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC TẬP VÀ NGHIÊN CỨU
+
+I. Nghiên cứu chính sách của trường đại học về sử dụng AI
+Đại học Quốc gia Hà Nội (ĐHQGHN) là một trong những trường dẫn đầu việc tích hợp AI vào giáo dục. Từ năm học 2025-2026, ĐHQGHN đã triển khai học phần bắt buộc “Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo” (VNU1001) cho tất cả sinh viên chính quy. Nhà trường khuyến khích sinh viên sử dụng AI như một công cụ hỗ trợ học tập nhưng nhấn mạnh nguyên tắc minh bạch, liêm chính học thuật và trách nhiệm cá nhân.
+Tại Đại học Bách khoa Hà Nội (HUST), nhà trường cho phép giảng viên và sinh viên sử dụng AI trong giảng dạy, nghiên cứu và kiểm tra đạo văn, đồng thời yêu cầu phải công khai việc sử dụng AI. Các trường lớn khác như ĐH Kinh tế Quốc dân, ĐH Ngoại thương, UEH cũng đang xây dựng hướng dẫn tương tự, tập trung vào việc cấm gian lận nhưng khuyến khích sử dụng AI có trách nhiệm.
+So sánh với thế giới: Các trường danh tiếng như Harvard, Stanford cho phép sử dụng AI hỗ trợ nhưng yêu cầu trích dẫn rõ ràng và không được nộp nội dung do AI tạo hoàn toàn làm sản phẩm cá nhân.
+Nhận định cá nhân: Chính sách của các trường Việt Nam đang rất tiến bộ, phù hợp với xu hướng công nghệ. Tuy nhiên, cần có hướng dẫn chi tiết hơn về cách trích dẫn AI theo chuẩn APA/MLA và công cụ hỗ trợ phát hiện lạm dụng.
+II. Thực hiện nhiệm vụ học tập với sự hỗ trợ của AI
+Nhiệm vụ chọn: Viết bài luận học thuật ngắn chủ đề “Vai trò của Trí tuệ Nhân tạo (AI) trong học tập của sinh viên Việt Nam: Cơ hội và thách thức”.
+Các prompt đã sử dụng:
+“Gợi ý dàn ý chi tiết bài luận về Vai trò của AI trong học tập của sinh viên Việt Nam.”
+“Viết đoạn thân bài về lợi ích của AI trong học tập, đưa ví dụ cụ thể tại Việt Nam.”
+“Chỉnh sửa đoạn văn sau cho mạch lạc, học thuật và có tính phê phán hơn: [dán nội dung]”
+Cách đánh giá, chỉnh sửa và tích hợp:
+Đánh giá: Kiểm tra tính chính xác, logic và tính nguyên bản của nội dung AI đưa ra.
+Chỉnh sửa: Viết lại 60-70% nội dung, bổ sung ví dụ thực tế từ trải nghiệm cá nhân và kiến thức đã học.
+Tích hợp: Sử dụng AI hỗ trợ dàn ý và ý tưởng, bản thân viết phần mở đầu, kết luận và phân tích sâu.
+Trích dẫn minh bạch: “Tác giả đã sử dụng Grok AI để hỗ trợ xây dựng dàn ý và gợi ý một phần nội dung. Toàn bộ bài luận đã được chỉnh sửa và bổ sung ý kiến cá nhân của tác giả.”
+(Kết quả: Bài luận hoàn thành tốt và có thể nộp độc lập).
+III. Phân tích các vấn đề đạo đức liên quan đến việc sử dụng AI
+Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật Hỗ trợ hợp lý là dùng AI để brainstorm, tóm tắt, sửa lỗi. Gian lận là để AI viết toàn bộ và nộp mà không có đóng góp cá nhân.
+Vấn đề quyền sở hữu trí tuệ và trích dẫn AI được huấn luyện trên dữ liệu lớn, nên cần trích dẫn rõ ràng khi sử dụng. Việc không trích dẫn có thể vi phạm liêm chính học thuật.
+Tác động đến quá trình học tập và phát triển kỹ năng AI giúp tiết kiệm thời gian nhưng nếu lạm dụng sẽ làm giảm khả năng tư duy phê phán, sáng tạo và kỹ năng viết lách của sinh viên.
+IV. Bộ nguyên tắc cá nhân (7 nguyên tắc)
+Minh bạch tuyệt đối: Luôn khai báo rõ ràng phần nào sử dụng AI.
+AI là công cụ, không phải thay thế: Phải tự suy nghĩ và đóng góp phần lớn nội dung.
+Luôn kiểm chứng thông tin: Cross-check đầu ra của AI với nguồn uy tín.
+Giữ tính nguyên bản: Không copy-paste trực tiếp, phải chỉnh sửa và bổ sung ý kiến cá nhân.
+Trích dẫn đúng cách: Sử dụng chuẩn trích dẫn cho nội dung hỗ trợ từ AI.
+Cân bằng phát triển kỹ năng: Giới hạn thời gian dùng AI, ưu tiên rèn luyện tư duy cá nhân.
+Đạo đức học thuật: Sử dụng AI để nâng cao chất lượng học tập chứ không phải để gian lận.
+
+
+
+
+
+V. Infographic minh họa “Sử dụng AI có trách nhiệm trong học thuật”
+
+Hình 1: Infographic “Sử dụng AI Có Trách Nhiệm Trong Học Thuật”
+Chú thích: Infographic được thiết kế với sự hỗ trợ của Grok Imagine, truyền tải thông điệp một cách trực quan và dễ hiểu.
+Kết luận
+Sử dụng AI có trách nhiệm không chỉ giúp nâng cao hiệu quả học tập mà còn rèn luyện đạo đức và kỹ năng số cần thiết cho tương lai. Bản thân tôi cam kết thực hiện nghiêm ngặt bộ nguyên tắc trên trong suốt quá trình học tập.
+Tài liệu tham khảo
+Trang thông tin ĐHQGHN và HUST về chính sách AI (2025-2026).
+Các tài liệu hướng dẫn đạo đức sử dụng AI của các trường đại học quốc tế.
+
+

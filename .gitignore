@@ -1,0 +1,31 @@
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js (nếu dùng sau này)
+node_modules/
+npm-debug.log*
+.env
+.env.local
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
